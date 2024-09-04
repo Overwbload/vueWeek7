@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as t}from"./index-Bvi3KzUi.js";const c={},a={class:"home"},n=t("h1",{class:"text-center"},"Hello",-1),_=[n];function r(d,i,l,p,f,h){return o(),s("div",a,_)}const u=e(c,[["render",r]]);export{u as default};
